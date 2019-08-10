@@ -1,0 +1,2 @@
+1.Parent -app-address-card name="New Name"
+  Child @Input('name') userName:string;

@@ -1,0 +1,39 @@
+git init-initialization
+
+git remote add origin "https://github.com/gkatchi/MyExamples.git"
+
+git pull origin master
+
+git status
+
+git add edu1.txt
+
+git commit -m ""
+
+git config --global user.email {emailaddress}
+git config --global user.name {name}
+
+git config --global user.email gopi.katchi@gmail.com
+git config --global user.name gkatchi
+
+git add -A
+
+git commit -a -m ""
+
+git log
+
+git branch firstbranch
+
+git checkout firstbranch
+
+git merge first
+
+pull fetch difference
+
+git rebase master
+
+ssh-keygen
+
+ssh -T git@github.com
+
+git push origin first

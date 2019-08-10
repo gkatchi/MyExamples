@@ -1,0 +1,81 @@
+Core Java
+
+1.Streams
+2.Optional
+
+3.HashMap Working Example
+
+https://www.dineshonjava.com/how-does-java-hashmap-work-internally/
+
+4.HashMap LoadFactor and Rehashing
+
+https://javabypatel.blogspot.com/2015/10/what-is-load-factor-and-rehashing-in-hashmap.html
+
+5.Tree Map  Map-https://beginnersbook.com/2013/12/treemap-in-java-with-example/
+
+6.Linked Hash Map:
+
+https://www.javatpoint.com/java-linkedhashmap
+
+7.Difference between HashMap and concurrent HashMap
+https://www.geeksforgeeks.org/difference-hashmap-concurrenthashmap/
+
+8 HashSet Implementaiuon
+
+https://codepumpkin.com/hashset-internal-implementation/
+
+9.Java 8 Interview Questions
+
+https://www.java67.com/2018/10/java-8-stream-and-functional-programming-interview-questions-answers.html
+
+10.https://www.javatpoint.com/java-8-functional-interfaces
+
+11.Java 7 Feautues 
+
+https://dzone.com/articles/new-java-7-language-features
+
+https://howtodoinjava.com/java7/java-7-changes-features-and-enhancements/
+
+12 https://howtodoinjava.com/java-version-wise-features-history/
+
+13.JVM Architecture
+
+14 .Memory Leaks
+
+https://dzone.com/articles/memory-leak-andjava-code
+
+15.Singleton
+
+https://www.callicoder.com/java-singleton-design-pattern-example/
+
+16.Factory
+
+https://www.javatpoint.com/factory-method-design-pattern
+
+17.Abstract Factory
+
+https://www.javatpoint.com/abstract-factory-pattern
+
+18.https://www.javatpoint.com/proxy-pattern
+
+19.https://dzone.com/articles/decorator-design-patternshttps://dzone.com/articles/decorator-design-patterns
+
+20 https://www.geeksforgeeks.org/builder-design-pattern/
+
+21 https://www.tutorialspoint.com/design_pattern/builder_pattern
+
+22.SOLID https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+
+23.https://dzone.com/articles/logging-with-log4j-in-java
+
+23.http://oraclemine.com/find-nth-highest-salary/
+
+24.https://www.javaguides.net/2019/05/spring-boot-spring-aop-logging-example-tutorial.html
+
+25.https://dzone.com/articles/spring-boot-security-json-web-tokenjwt-hello-world
+
+26.Memory Leak https://stackify.com/memory-leaks-java/
+https://www.geeksforgeeks.org/hashmap-vs-weakhashmap-java/
+
+27.checked or unchecked http://tutorials.jenkov.com/java-exception-handling/checked-or-unchecked-exceptions.html
+28.
